@@ -1,4 +1,5 @@
 # Python calculator
+# You can also use funcs to make this Calculator!
 
 operator = input("Enter an arithmetic operation(+, -, *, /): ")
 
@@ -20,4 +21,5 @@ elif operator == "*":
 
 else:
     print(f"'{operator}' is not valid.")             
+
 
